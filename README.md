@@ -1,4 +1,4 @@
-# classexample
+# Outside Methods example
 
 ## Project setup
 ```
